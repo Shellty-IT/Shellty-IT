@@ -2,7 +2,7 @@
 
 **Junior Full-Stack Developer** · Node.js & .NET/C# · React/TypeScript
 
-I build complete web applications — from the API and database, through the frontend, to tests, CI/CD, and deployment. I also have a background in system administration, so I understand the full life of an app: from the code to running it in a stable and secure way in production. **Open to remote work.**
+I build complete web applications - from the API and database, through the frontend, to tests, CI/CD, and deployment. I also have a background in system administration, so I understand the full life of an app: from the code to running it in a stable and secure way in production. **Open to remote work.**
 
 ---
 
@@ -23,7 +23,7 @@ I build complete web applications — from the API and database, through the fro
 | **KSeF Master** | E-invoicing platform connected to the Polish government KSeF API (no SDK). Security: AES-256, XAdES-BES signatures. | [demo](https://ksef-master.netlify.app) |
 | **SmartQuote AI** | Sales CRM with an AI assistant (Gemini), in-browser e-signature, and 80% fewer database queries. | [demo](https://smart-quote-ai.vercel.app) |
 | **Shellty.Kanban** | Team project board with JWT auth, full CI/CD, 60+ tests and 95%+ code coverage. | [demo](https://shellty-kanban.netlify.app) |
-| **Shellty CMS** | Scalable CMS for business websites — a modern alternative to WordPress. | [demo](https://shellty-cms.vercel.app) |
+| **Shellty CMS** | Scalable CMS for business websites - a modern alternative to WordPress. | [demo](https://shellty-cms.vercel.app) |
 | **Shellty Pulse** | Service health monitor with Infrastructure as Code (Docker + Ansible). | [demo](https://shellty-pulse.duckdns.org) |
 
 More projects and live demos are on my portfolio 👇
