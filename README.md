@@ -32,6 +32,6 @@ More projects and live demos are on my portfolio 👇
 
 ### 📫 Where to find me
 
-- 🌐 Portfolio: [shellty-it.github.io](https://shellty.pl)
+- 🌐 Portfolio: [shellty.pl](https://shellty.pl)
 - 💼 LinkedIn: [tomasz-skorupski-shellty](https://www.linkedin.com/in/tomasz-skorupski-shellty/)
 - 📧 skorupski-tomasz@wp.pl
